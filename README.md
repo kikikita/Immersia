@@ -7,7 +7,7 @@ authors:
 ---
 
 # LLMGameHub: How We Won the Gradio Agents & MCP Hackathon 2025
-<img width="1300" height="650" alt="thumbnail" src="https://github.com/user-attachments/assets/b209dca3-9bd5-4ab1-9f17-1452dff10223" />
+<img width="1300" height="650" alt="thumbnail" src="assets/thumbnail.png" />
 
 *Create. Play. Imagine.*
 
@@ -24,7 +24,7 @@ LLMGameHub is a playground for generative adventures. You describe a world, choo
 Each session lasts around five minutes, featuring several choices, interactive forks, and an ending.
 
 ## 🚀 How Does it Work?
-<img width="1536" height="1024" alt="f70fa09a-9ee9-4861-9eb7-ac13cfe7b870" src="https://github.com/user-attachments/assets/db78a779-47d4-41b9-8afa-11865c0a8b69" />
+<img width="1536" height="1024" alt="f70fa09a-9ee9-4861-9eb7-ac13cfe7b870" src="assets/agents.png" />
 
 At the core of LLMGameHub is a set of specialized agents, each responsible for a particular aspect of the game:
 
@@ -59,7 +59,7 @@ async def player_step(state: GraphState) -> GraphState:
 This fragment illustrates how the graph decides the next events following a player's choice. Music and image generation are initiated concurrently.
 
 ## User Interface
-<img width="1536" height="1024" alt="interface" src="https://github.com/user-attachments/assets/52597acb-4994-4434-98c3-3390e409f7d4" />
+<img width="1536" height="1024" alt="interface" src="assets/interface.png" />
 
 Our goal was to make playing as enjoyable as story creation. The Gradio-based builder lets you specify the setting, main character, and genre of your future story. After clicking "Start Game," the user instantly immerses themselves in the narrative: text, background illustrations, interactive action choices, and dynamic music.
 
