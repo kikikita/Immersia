@@ -12,7 +12,7 @@ authors:
 
 *Create. Play. Imagine.*
 
-In June 2025, my partner and I participated in the international [Gradio Agents & MCP Hackathon](https://huggingface.co/Agents-MCP-Hackathon) — a week of experimentation with multi-agent systems and MCP. In the Agentic Demo Showcase track, participants had one goal: to demonstrate the real capabilities of multi-agent LLM applications. That's how LLMGameHub was born — a platform where anyone can create an interactive game in minutes based on their own ideas and texts.
+In June 2025, my teammate and I participated in the international [Gradio Agents & MCP Hackathon](https://huggingface.co/Agents-MCP-Hackathon) — a week of experimentation with multi-agent systems and MCP. In the Agentic Demo Showcase track, participants had one goal: to demonstrate the real capabilities of multi-agent LLM applications. That's how LLMGameHub was born — a platform where anyone can create an interactive game in minutes based on their own ideas and texts.
 
 ## How the Idea Was Born
 
@@ -67,8 +67,6 @@ Our goal was to make playing as enjoyable as story creation. The Gradio-based bu
 ## Secret of Success
 
 The main challenge was integrating multiple generative services while ensuring acceptable response times. We optimized prompts, leveraged asynchronous programming, executed parallel generation requests, and stored intermediate results in Redis. This approach minimized response times and significantly enhanced user experience.
-
-We also prioritized content safety, implementing prompt checks to eliminate any possibility of generating undesirable images or audio.
 
 ## What’s Next?
 
