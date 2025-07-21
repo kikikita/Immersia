@@ -7,6 +7,7 @@ authors:
 ---
 
 # LLMGameHub: How We Won the Gradio Agents & MCP Hackathon 2025
+> 📝 **Note:** At the time of winning the Gradio Agents & MCP Hackathon 2025, our project was known as **LLMGameHub**. It has since evolved into **Immersia**, reflecting our broader vision for generative gaming experiences.
 <img width="1300" height="650" alt="thumbnail" src="assets/thumbnail.png" />
 
 *Create. Play. Imagine.*
