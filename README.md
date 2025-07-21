@@ -73,6 +73,7 @@ The main challenge was integrating multiple generative services while ensuring a
 We've already published the project on [Hugging Face Spaces](https://huggingface.co/spaces/Agents-MCP-Hackathon/LLMGameHub) and continue its development by adding new genres and improving music generation. A demo of the project is available on [youtube](https://youtu.be/pQfP9lA1QUM).
 
 ### From LLMGameHub to Immersia
+<img width="1498" height="442" alt="1ee77b68-12c2-4b0d-b085-63380a29423e" src="https://github.com/user-attachments/assets/b0661f43-01e9-43db-bd88-ed1782f3f209" />
 
 While LLMGameHub was our starting point and the name under which we achieved victory at the Gradio Agents & MCP Hackathon, our ambitions have expanded. To better reflect our vision—immersive, creative AI-powered gaming—we rebranded the project to **Immersia**. This new identity emphasizes deeper engagement, creativity, and an expanding set of generative gaming capabilities, which we'll continue to enhance moving forward.
 
