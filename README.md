@@ -1,6 +1,6 @@
 ---
 title: "LLMGameHub: How We Won the Gradio Agents & MCP Hackathon 2025"
-thumbnail: /blog/assets/llmgamehub-hackathon/thumbnail.png
+thumbnail: /blog/assets/immersia-ai-games/thumbnail.png
 authors:
 - user: kikikita
 - user: georgiisavin
